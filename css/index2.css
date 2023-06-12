@@ -1,0 +1,35 @@
+.gbnArea{
+    font-family: 'Malgun Gothic', '맑은 고딕', '돋움', Dotum, Arial, serif;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+
+.gbn{
+    font-family: 'Malgun Gothic', '맑은 고딕', '돋움', Dotum, Arial, serif;
+    color: #666;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    background: #31667d;
+    border-top: 1px solid #1d4d62;
+    overflow: hidden;
+    height: 40px;
+}
+
+#leftMenu{
+    font-family: 'Malgun Gothic', '맑은 고딕', '돋움', Dotum, Arial, serif;
+    color: #666;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    list-style: none;
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
